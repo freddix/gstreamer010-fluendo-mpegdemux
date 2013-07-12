@@ -3,12 +3,12 @@
 
 Summary:	GStreamer MPEG-2 demuxer plugin
 Name:		gstreamer010-%{gstname}
-Version:	0.10.71
+Version:	0.10.72
 Release:	1
 License:	MPL v1.1
 Group:		Libraries
 Source0:	http://core.fluendo.com/gstreamer/src/gst-fluendo-mpegdemux/gst-%{gstname}-%{version}.tar.bz2
-# Source0-md5:	a7b5152cd73fd0f9fa653fca93c82bd7
+# Source0-md5:	df726579404af65b9536428661ab4322
 URL:		http://gstreamer.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
